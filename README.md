@@ -1,3 +1,3 @@
 # myrepo
 
-New line added
+This is new commit message. hello
